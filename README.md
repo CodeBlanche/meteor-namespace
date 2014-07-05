@@ -1,7 +1,8 @@
 Namespace (For Meteor Atmosphere)
 =================================
+[![Build Status](https://travis-ci.org/mertenvg/meteor-namespace.svg?branch=master)](https://travis-ci.org/mertenvg/meteor-namespace)
 
-Namespaces for JavaScript
+Namespaces for JavaScript 
 
 ### How do I create a namespaced function?
 ```js
