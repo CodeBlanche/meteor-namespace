@@ -1,6 +1,6 @@
 Namespace (For Meteor Atmosphere)
 =================================
-[![Build Status](https://travis-ci.org/mertenvg/meteor-namespace.svg?branch=master)](https://travis-ci.org/mertenvg/meteor-namespace)
+[![Build Status](https://travis-ci.org/CodeBlanche/meteor-namespace.svg?branch=master)](https://travis-ci.org/CodeBlanche/meteor-namespace)
 
 Namespaces for JavaScript 
 
