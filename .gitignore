@@ -1,2 +1,5 @@
+.idea/
 .meteor/local
 .meteor/meteorite
+.build*
+packages/

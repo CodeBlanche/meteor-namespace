@@ -1,0 +1,9 @@
+{
+  "name": "namespace",
+  "description": "Namespaces for JavaScript",
+  "homepage": "https://github.com/CodeBlanche/meteor-namespace",
+  "author": "Merten van Gerven <merten@codeblanche.com> (http://codeblanche.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/CodeBlanche/meteor-namespace",
+  "packages": {}
+}
