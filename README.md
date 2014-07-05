@@ -1,10 +1,7 @@
-Namespace
-=========
+Namespace (For Meteor Atmosphere)
+=================================
 
 Namespaces for JavaScript
-
-Usage
------
 
 ### How do I create a namespaced function?
 ```js
@@ -23,5 +20,5 @@ Namespace('My.Test.Space.One', {
 });
 
 // use the object
-// Test.Space.One.ice; // === cold
+Test.Space.One.ice; // === cold
 ```
